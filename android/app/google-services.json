@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "581723574214",
+    "project_id": "anuka-eeec5",
+    "storage_bucket": "anuka-eeec5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581723574214:android:ebb36cb8bb6d62655cecc7",
+        "android_client_info": {
+          "package_name": "com.anuka.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA39JNKyckTBeXoRQC1rG6CwsV91iXVgJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
